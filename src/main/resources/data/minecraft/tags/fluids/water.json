@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "greenwater:green_water_still",
+    "greenwater:green_water_flowing"
+  ]
+}
